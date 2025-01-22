@@ -1,0 +1,42 @@
+Abrir un fichero de texto e indicar:
+• ¿En qué consiste el juego?
+• ¿Cuántos objetos identificas? (Sólo identificar)
+	palas
+	pelota	
+	puntuacion
+	limites
+		superior
+		inferior
+	porteria
+	division del campo
+	fondo
+	efectos de audio
+		Golpe pelota-pala
+		Gol (pelota-porteria)
+		Golpe pelota-limite
+	
+• ¿Qué objetos son puramente estéticos?
+	Division campo
+	Fondo
+• ¿Qué objetos tienen comportamiento? ¿Qué comportamientos
+identificas?
+	palas 
+		Desplazamiento vertical
+		Limitado por arriba y abajo
+		mov acelerado
+		pueden dar velocidad a la pelota
+
+	pelota
+		puede rebotar
+			con los limites
+			las palas
+		mov linea recta
+		velocidad inicial
+		punto de partida
+	
+	marcador
+		aumenta de 1 en 1 al superponerse la bola y la porteria
+	porteria
+		evneto de gol
+• ¿Qué elementos tiene el HUD?
+• ¿Quién tiene la responsabilidad de esos comportamientos?

@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: d08337420889cd6498940e394188ce30
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gBot Multiple_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 337
+        width: 106
+        height: 341
+      alignment: 9
+      pivot: {x: 0.36182576, y: 0.7863433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae31a9057041046806425059e71dec
+      internalID: 342684717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gBot Multiple_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 343
+        width: 102
+        height: 322
+      alignment: 9
+      pivot: {x: 0.31811568, y: 0.7971747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8ed1efc1fe4aa4f945d81074e1cfb6
+      internalID: 114309230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gBot Multiple_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 353
+        width: 174
+        height: 320
+      alignment: 9
+      pivot: {x: 0.44949517, y: 0.1857113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 160}
+        - {x: -34, y: 160}
+        - {x: -87, y: 84}
+        - {x: -87, y: -145}
+        - {x: -74, y: -160}
+        - {x: 52, y: -160}
+        - {x: 65, y: -128}
+        - {x: 87, y: -81}
+        - {x: 87, y: 46}
+        - {x: 69, y: 150}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44adbb530cef2747b2f94645485172d
+      internalID: 512880375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gBot Multiple_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 161
+        width: 325
+        height: 280
+      alignment: 9
+      pivot: {x: 0.04333036, y: 0.11291482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 140}
+        - {x: -162.5, y: 54}
+        - {x: -162.5, y: -129}
+        - {x: -110.5, y: -140}
+        - {x: 130.5, y: -140}
+        - {x: 162.5, y: -114}
+        - {x: 162.5, y: 81}
+        - {x: 116.5, y: 140}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d5ab6e7df02774abaf6a53439b6b30
+      internalID: 563941096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gBot Multiple_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 11
+        width: 156
+        height: 295
+      alignment: 9
+      pivot: {x: 0.34977987, y: 0.9038122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e5fb5f93cf2147b18e2c2237b6fa9
+      internalID: 738310206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gBot Multiple_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 4
+        width: 156
+        height: 302
+      alignment: 9
+      pivot: {x: 0.41237152, y: 0.9267845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e054926b3f595ae459bb069225ea5c49
+      internalID: -715533098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gBot Multiple_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 10
+        width: 330
+        height: 123
+      alignment: 9
+      pivot: {x: 0.044332054, y: 0.8969228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f04fbb372c11b48b9e909e0ff5eb96
+      internalID: 1023909699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gBot Multiple_0: 342684717
+      gBot Multiple_1: 114309230
+      gBot Multiple_2: 512880375
+      gBot Multiple_3: 563941096
+      gBot Multiple_4: 738310206
+      gBot Multiple_5: -715533098
+      gBot Multiple_6: 1023909699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

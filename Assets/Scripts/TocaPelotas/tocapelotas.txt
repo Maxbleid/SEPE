@@ -1,0 +1,87 @@
+En que consiste el juego?
+	2d game, cartoon style
+	singleplayer
+	click en los objetos antes que toquen los pinchos
+
+Como se juega? (interaccion)	
+
+	pinchar con el dedo o click raton
+
+
+Cuantos objetos identificas?
+	plataformas
+		fijas
+		móviles
+	cursor
+	pinchos de muerte
+	objetos clicables(caen)
+	Canvas: 
+		puntuacion y puntuacion máxima
+		Menu: bton de play
+	background
+	Audio:
+		Musica de fondo
+		Efectos de sonido:
+			explosión de muerte
+			fin de partida
+			click raton
+			choque de los objetos con plataformas
+
+Que objetos son puramente estéticos?
+
+	background
+
+
+que objetos tienen comportamiento? que comportamiento identificas?
+
+	el raton:
+		desplazamiento
+		click
+
+	objetos clicables
+		caen con gravedad
+		(añadirle que los objetos no solo caigan,
+		sino que se muevan por la pantalla y sean clicables)
+		se destruyen
+			aumentan la puntuación
+			explotan (generan particulas y efectos de explosion)
+		termina la partida al tocar los pinchos
+			efecto fin de partida
+			destruye todas las otras bolas en pantalla.
+			quien los crea?
+	
+	WorldManager
+		Crear objetos clicables
+			cuantos
+			donde
+			como
+
+	botón de play
+		inicializa el juego
+
+	pinchos
+		destruyen los elementos que los tocan
+		termina la partida
+	
+	plataformas
+		rubberbanding/animacion al inicializar
+		fijas
+		móviles
+			tienen fisicas
+
+
+que elementos tiene el HUD
+	Canvas:
+		puntuacion
+			score actual
+			Highscore
+			Barra diseño
+		Menu: bton play
+
+	GameFlow:
+		Menu -> Juego (inGame)-evento click del boton play
+
+
+
+
+quien tiene la responsabilidad de esos comportamientos?
